@@ -3,6 +3,10 @@
 1. Docker Build checked
 2. Github Workflow
 3. Iam User In AWS
+create user and execute below command in cloud shell or add permissions policy from console
+  ~ $ aws iam attach-user-policy \
+     --user-name cicd-user-prml \
+     --policy-arn arn:aws:iam::aws:policy/AmazonEC2ContainerRegistryPowerUser
 
 ## Docker Setup In EC2 commands to be Executed
 
