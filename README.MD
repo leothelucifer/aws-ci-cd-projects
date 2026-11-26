@@ -40,4 +40,4 @@ AWS_ECR_LOGIN_URI = demo>>  548597179073.dkr.ecr.ap-southeast-1.amazonaws.com
 
 ECR_REPOSITORY_NAME = studentperformance
 
----------------------------------------\
+---------------------------------------\\
